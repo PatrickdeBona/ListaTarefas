@@ -1,2 +1,2 @@
 ## ListaTarefas
- Lista de tarefas, pode ser adicionado tarefas e removidas!
+ Lista de tarefas, com funções de adicionar e remover tarefas!
