@@ -1,2 +1,2 @@
 ## ListaTarefas
- Lista de tarefas, com funções de adicionar e remover tarefas!
+ Lista de tarefas em JavaScript, com funções de adicionar e remover tarefas!
